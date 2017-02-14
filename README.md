@@ -1,5 +1,5 @@
 # semantic-ui-ng2-sidebar
-use semantic-ui sidebar In Angular2
+use semantic-ui sidebar In Angular2 without warning
 
 ### How to use
 ```bash
@@ -35,6 +35,13 @@ cd angular2-webpack2-aot
   </a>
 </div>
 <div class="pusher">
+  <nav class="nav has-shadow inverted">
+    <div class="container">
+      <div class="nav-left">
+        <span class="nav-toggle" id="nav-toggle" (click)="toggleNav()">toggleNav</span>   
+      </div>
+    </div>
+  </nav>
   <div>
     contents..
   </div>
