@@ -1,0 +1,29 @@
+{
+  "name": "semantic-ui-ng2-sidebar",
+  "version": "1.0.0",
+  "description": "use semantic-ui sidebar in angular2 without warning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tk5641/semantic-ui-ng2-sidebar.git"
+  },
+  "keywords": [
+    "angular2",
+    "semantic-ui",
+    "sidebar",
+    "ng2",
+    "semantic"
+  ],
+  "author": "K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tk5641/semantic-ui-ng2-sidebar/issues"
+  },
+  "homepage": "https://github.com/tk5641/semantic-ui-ng2-sidebar#readme",
+  "dependencies": {
+    "semantic-ui-sidebar": "^2.2.3"
+  }
+}
