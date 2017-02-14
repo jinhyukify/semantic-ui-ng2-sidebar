@@ -19,7 +19,7 @@ git clone https://github.com/tk5641/angular2-webpack2-aot
 
 # change directory to repo
 cd angular2-webpack2-aot
-
+```
 ## defined sidebar html code in your project
 ```html
 <div class="ui left vertical inverted labeled icon sidebar">
