@@ -9,17 +9,6 @@ cd angular2-project
 # install semantic-ui sidebar
 npm install --save semantic-ui-sidebar
 
-# angular2-webpack2-aot
-webpack2 config settings JIT / AOT compile with lazy Load
-
-### Quick start
-```bash
-# clone  repo
-git clone https://github.com/tk5641/angular2-webpack2-aot
-
-# change directory to repo
-cd angular2-webpack2-aot
-```
 ## defined sidebar html code in your project
 ```html
 <div class="ui left vertical inverted labeled icon sidebar">
